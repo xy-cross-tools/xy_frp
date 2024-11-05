@@ -19,7 +19,8 @@ xy-web-service Service settings module.
 ## Source Code Repositories
 
 - <a href="https://github.com/xy-cross-tools/xy_frp.git" target="_blank">Github</a>  
-- <a href="https://gitee.com/xy-cross-tools/xy_frp.git" target="_blank">Gitee</a>
+- <a href="https://gitee.com/xy-opensource/xy_frp.git" target="_blank">Gitee</a>  
+- <a href="https://gitcode.com/xy-opensource/xy_frp.git" target="_blank">GitCode</a>  
 
 ## 安装
 
